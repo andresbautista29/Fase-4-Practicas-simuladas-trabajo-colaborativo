@@ -1,5 +1,5 @@
 class Cliente:
-    """Clase para manejar los datos y validaciones del cliente[cite: 16]."""
+    """Clase para manejar los datos y validaciones del cliente."""
     
     def __init__(self, nombre, documento, correo):
         self.__nombre = nombre
