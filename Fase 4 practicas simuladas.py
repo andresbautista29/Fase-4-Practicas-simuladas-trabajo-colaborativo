@@ -35,3 +35,4 @@ class Cliente:
 
     def mostrar_datos(self):
         return f"Cliente: {self.__nombre} | Documento: {self.__documento}"
+    
